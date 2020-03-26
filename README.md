@@ -6,6 +6,22 @@
 
 <p align="justify">🇺🇸 Software for management of incidents posted by ONGs that could need a donation.</p>
 
+### Login
+
+![](https://github.com/matheusmhmelo/BeTheHero_Web/blob/master/.github/login.png)
+
+### Register ONGs
+
+![](https://github.com/matheusmhmelo/BeTheHero_Web/blob/master/.github/register.png)
+
+### Incidents
+
+![](https://github.com/matheusmhmelo/BeTheHero_Web/blob/master/.github/profile.png)
+
+### Register incident
+
+![](https://github.com/matheusmhmelo/BeTheHero_Web/blob/master/.github/new_incident.png)
+
 <h1>🇧🇷 Sobre a aplicação</h1>
 
 ## Instalação e execução
